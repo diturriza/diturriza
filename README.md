@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Iturriza
 
-<!--
-**diturriza/diturriza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Technical Leader & Staff-level Engineer** with 10+ years building and scaling modern web platforms across ecommerce, fintech, and B2B SaaS.
 
-Here are some ideas to get you started:
+I specialize in **modern frontend architecture** —microfrontends, design systems, monorepos, and complex **Angular → React migrations**— while leading cross-team initiatives that improve delivery, developer experience, and product quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on **AI-driven engineering** to accelerate development, testing, documentation, and architectural decision-making.
+
+---
+
+## 🔥 What I Do
+
+- **Modern Frontend Architecture**
+  - Microfrontends (React, Vite)
+  - Angular → React migrations
+  - Design systems & scalable UI foundations
+  - DX tooling, performance & maintainability
+
+- **Leadership & Cross-Team Impact**
+  - Technical direction for multi-team engineering groups
+  - Architecture ownership and code quality strategy
+  - Mentoring, coaching, and collaborative decision-making
+  - Product–Engineering alignment for high-impact delivery
+
+- **AI-Driven Development**
+  - Automated code reviews & refactors
+  - Documentation & testing scaffolding
+  - Internal engineering copilots
+  - Faster architectural proposals & prototypes
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Frontend:** React, Angular, TypeScript, Zustand, Vite, Tailwind  
+**Architecture:** Microfrontends, Monorepos, Design Systems  
+**Testing:** Vitest, Jest, Cypress  
+**DevOps & Infra:** GitHub Actions, Firebase, GCP, **AWS**, Bitrise, Capacitor  
+**AI & Automation:** LLM integration, codegen, AI-augmented workflows
+
+---
+
+## 📈 What I'm Interested In
+
+- Scalable frontend platforms  
+- AI applied to engineering workflows  
+- Developer Experience (DX) systems  
+- Leadership in multi-team environments  
+- High-impact migrations & modernization projects  
+
+---
+
+## 📫 Connect
+
+- **LinkedIn:** https://linkedin.com/in/daniel-iturriza  
+- **Email:** diturriza17@gmail.com  
+
+Always open to collaborating on architecture, modernization, or AI-driven engineering projects.
