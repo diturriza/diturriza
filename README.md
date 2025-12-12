@@ -35,7 +35,7 @@ I focus on **AI-driven engineering** to accelerate development, testing, documen
 **Frontend:** React, Angular, TypeScript, Zustand, Vite, Tailwind  
 **Architecture:** Microfrontends, Monorepos, Design Systems  
 **Testing:** Vitest, Jest, Cypress  
-**DevOps & Infra:** GitHub Actions, Firebase, GCP, **AWS**, Bitrise, Capacitor  
+**DevOps & Infra:** GitHub Actions, Firebase, GCP, AWS, Bitrise, Capacitor  
 **AI & Automation:** LLM integration, codegen, AI-augmented workflows
 
 ---
